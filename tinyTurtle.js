@@ -67,3 +67,5 @@ function TinyTurtle(canvas) {
 
   return self;
 }
+stamp();
+forward(90);
